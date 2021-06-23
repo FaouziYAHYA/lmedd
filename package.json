@@ -2,9 +2,9 @@
   "name": "lmedd",
   "version": "1.0.0",
   "description": "json server",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "node server.js"
   },
   "author": "faouzi",
   "license": "ISC",
